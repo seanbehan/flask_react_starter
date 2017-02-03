@@ -9,14 +9,16 @@ pip install -r requirements.txt
 npm install
 ```
 
-Transpile with Webpack and start the Sinatra application.
+Transpile with Webpack and start the Flask application.
 
 ```
 webpack --watch
 python app.py
 ```
 
-Visit http://localhost:5000
+Visit
+
+- http://localhost:5000
 
 # Extra
 
